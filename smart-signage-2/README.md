@@ -31,10 +31,10 @@ Panel Pin	Photon/Electron Pin
   GND			GND		
   CLK			D6		
   OE			D7		
-  LAT			TX	
-  A			    A0	
-  B			    A1		
-  C			    A2	
+  LAT		    TX	
+  A		    A0	
+  B		    A1		
+  C		    A2	
   R1			D0		
   G1			D1		
   B1			D2		
