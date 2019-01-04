@@ -1,7 +1,7 @@
 # Smart Signage YouTube Episode 2
 Create a smart sign using Google Assistant, IFTTT, Adafruit 32x16 LED Matrix and Particle.io Photon.
 
-![Product Image](https://github.com/techzonetips/youtube/images/github-sign-image.png)
+![Product Image](https://github.com/techzonetips/youtube/blob/master/smart-signage-2/images/github-sign-image.png)
 
 ## Use Cases
 
@@ -42,13 +42,13 @@ Panel Pin	Photon/Electron Pin
   G2			D4		
   B2			D5
   ```
-![Wiring Image](https://github.com/techzonetips/youtube/images/wiring.png)
+![Wiring Image](https://github.com/techzonetips/youtube/blob/master/smart-signage-2/images/wiring.png)
 
 ## Pin Arrangement
 A 32x16 panel uses the below pin arrangement. The labels might be slightly different, or the pins might not be labeled at all, use this image for reference.
 
 Notice there are four ground connections. To ensure reliable performance, all four should be connected to GND on the Arduino! A solderless breadboard is handy for making this split.
 
-![Wiring Image](https://github.com/techzonetips/youtube/images/pin-layout.png)
+![Wiring Image](https://github.com/techzonetips/youtube/blob/master/smart-signage-2/images/pin-layout.png)
 
 
