@@ -1,7 +1,7 @@
 # Smart Signage YouTube Episode 2
 Create a smart sign using Google Assistant, IFTTT, Adafruit 32x16 LED Matrix and Particle.io Photon.
 
-![Product Image](https://github.com/techzonetips/youtube/blob/master/smart-signage-2/images/github-sign-image.png)
+![Product Image](https://github.com/techzonetips/youtube/blob/master/smart-signage-2/images/github-sign.png)
 
 ## Use Cases
 
