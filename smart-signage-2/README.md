@@ -3,7 +3,7 @@ Create a smart sign using Google Assistant, IFTTT, Adafruit 32x16 LED Matrix and
 
 ![Product Image](https://github.com/techzonetips/youtube/blob/master/smart-signage-2/images/github-sign.png)
 
-Video on YouTube: https://youtu.be/DJJ8zTNIMc8
+YouTube Video: https://youtu.be/DJJ8zTNIMc8
 
 ## Use Cases
 
